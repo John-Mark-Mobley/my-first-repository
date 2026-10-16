@@ -1,3 +1,4 @@
+// This is NEXT.js code
 export default function Home() {
   // Create an array containing numbers from 1 to 100
   const numbers = Array.from({ length: 100 }, (_, index) => index + 1);
